@@ -1,8 +1,8 @@
-# Project page
+# OWASP Top Ten Project page
 https://owasp.org/www-project-top-ten/
 https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/
 
-# Summary
+# OWASP Top Ten Summary
 https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_Top_10.html
 
 # A1 - Injections
