@@ -17,3 +17,17 @@ https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A1-Injectio
   * https://redtiger.labs.overthewire.org/
   * https://www.hacksplaining.com/exercises/sql-injection
   * Your old, not patched router administration panel (PING functionality)
+
+# A2 - Broken Authentication
+https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A2-Broken_Authentication
+
+* How to test
+  * https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
+  * https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html
+  * https://cheatsheetseries.owasp.org/cheatsheets/Forgot_Password_Cheat_Sheet.html
+  * https://cheatsheetseries.owasp.org/cheatsheets/Credential_Stuffing_Prevention_Cheat_Sheet.html
+* How to prevent
+  * https://pages.nist.gov/800-63-3/sp800-63b.html#memsecret
+  * https://owasp.org/www-project-application-security-verification-standard/, section `V2: Authentication Verification Requirements`
+* Where to practice?
+  * Just test your own application ;)
